@@ -1,0 +1,10 @@
+[user]
+    name = Ye Wenbin
+    email = wenbinye@ookong.com
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+[push]
+    default = tracking
